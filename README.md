@@ -5,6 +5,11 @@ The Connecto app provides researchers with the processed data presented in the a
 The Connecto app is available for Windows and Mac. 
 It has been developed by Dr. Ellen van Maren, Roland Widmer, and Dr. Camille G. Mignardot from the e-lab, Department of Neurology, Bern Inselspital (University Hospital of Bern), Bern, Switzerland, directed by Prof. Maxime Baud, M.D. Ph.D.
 
+## Download
+Go to releases page on the right panel of this view, or click here: [https://github.com/neuro-elab/EvM_Connectivity/releases/tag/Connect_v1.0](https://github.com/neuro-elab/EvM_Connectivity/releases/tag/Connect_v1.0)
+At the bottom of the release page, you'll find Connecto.exe for Windows and Connecto_macos_silicon for macOS users. Unzip and start the app. The first time it may take several minutes and you may have to confirm you would like to open the app.
+
+
 ## Guidelines
 
 ### 1. Data Selection
